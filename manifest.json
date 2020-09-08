@@ -1,11 +1,11 @@
 {
-	"name":				"OGPの練習　これはテストです",
-	"short_name":		"OGPの練習",
-	"start_url":		"/",
-	"display":			"standalone",
-	"orientation":		"any",
-	"background_color":	"#c3ebbe",
-	"theme_color":		"#8ad481",
+	"name":	"OGPの練習　これはテストです",
+	"short_name": "OGPの練習",
+	"start_url": "./index.html",
+	"display": "standalone",
+	"orientation": "any",
+	"background_color": "#c3ebbe",
+	"theme_color": "#8ad481",
 	"icons": [
 		{
 			"src": "./android-chrome-36x36.png",
